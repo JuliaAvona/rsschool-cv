@@ -11,8 +11,8 @@
 
 ## Briefly About Myself:
 ##### Hi there, I’m Julia. I'm from Saint Petersburg. Now live in Guadalajara, Mexico. 🇲🇽
-##### 🍭 At the moment I'm studying at The Rolling Scopes School Javascript/Front-end (HTML/CSS/JS).
-##### 🔮I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+##### 🍭 At the moment I’m studying at The Rolling Scopes School Javascript/Front-end (HTML/CSS/JS).
+##### 🔮 I believe that my ability to learn and gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 ##### Open for opportunities.
 
 ## Skills and Proficiency:
