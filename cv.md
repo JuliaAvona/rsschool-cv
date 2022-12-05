@@ -20,6 +20,7 @@
 ##### JavaScript Basics
 ##### Git, GitHub
 ##### VS Code
+##### Figma, Photoshop
 
 ## Code example:
 ##### My solution to the "Head, Tail, Init and Last - 7 kyu" from https://codewars.com
